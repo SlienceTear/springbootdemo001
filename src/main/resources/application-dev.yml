@@ -1,0 +1,14 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+#自定义属性
+picpath: http://192.168.188.146
+port: 9999
+
+#用户数据
+user2:
+  id: 1
+  name: test001
+  age: 18
+  address: chongqing
